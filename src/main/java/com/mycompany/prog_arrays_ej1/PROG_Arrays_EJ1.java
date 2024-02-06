@@ -15,7 +15,6 @@ import java.util.Random;
 public class PROG_Arrays_EJ1 {
 
     public static void main(String[] args) {
-        System.out.println("Hola prueba");
         // Declaramos atributos necesarios
         Random random = new Random(); // Crea numero entre 0 (incluido) y 1 (excluido)
         float media = 0; 
