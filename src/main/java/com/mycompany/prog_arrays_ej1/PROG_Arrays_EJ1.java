@@ -10,7 +10,7 @@ import java.util.Random;
  *
  * Se generan 20 números aleatorios de tipo entero y se almacenan en un vector.
  * Hay que calcular y mostrar la media y, además, mostrar cuántos números hay:
- * -Superiores a la media cI-nferiores a la media -Iguales a la media
+ * -Superiores a la media -Inferiores a la media -Iguales a la media
  */
 public class PROG_Arrays_EJ1 {
 
