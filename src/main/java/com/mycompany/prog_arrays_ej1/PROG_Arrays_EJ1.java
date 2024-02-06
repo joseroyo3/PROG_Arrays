@@ -15,9 +15,9 @@ import java.util.Random;
 public class PROG_Arrays_EJ1 {
 
     public static void main(String[] args) {
-        // Iniciamos atributos necesarios
+        // Declaramos atributos necesarios
         Random random = new Random(); // Crea numero entre 0 (incluido) y 1 (excluido)
-        float media = 0;
+        float media = 0; 
         float[] numerosAleatorios = new float[20];
 
         // Rellenamos la matriz de numeros aleatorios
